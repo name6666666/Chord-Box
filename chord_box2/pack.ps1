@@ -12,7 +12,7 @@ flet pack main.py `
     --hidden-import pystray `
     --hidden-import chord_box `
     --product-name "chord_box" `
-    --product-version "1.0.0" `
+    --product-version "1.1.0" `
     --company-name "Anakah"
 
 Remove-Item chord_box.spec -Force -ErrorAction SilentlyContinue
